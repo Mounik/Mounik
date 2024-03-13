@@ -22,10 +22,6 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mounik&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounik&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounik&show_icons=true&theme=radical)](https://github.com/mounik/github-readme-stats)
-
 <!--
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mounik&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mounik&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
