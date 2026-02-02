@@ -45,19 +45,6 @@ Mon objectif ? **Concevoir des infrastructures robustes, sécurisées et scalabl
 
 ---
 
-## 📊 Mes stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mounik&show_icons=true&theme=dark" alt="Stats GitHub" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mounik&theme=dark" alt="Streak Stats" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounik&layout=compact&theme=dark" alt="Top Langages" width="45%" />
-</p>
-
----
-
 ## 🌟 Mes projets phares
 
 
@@ -89,9 +76,10 @@ Tu veux contribuer à mes projets ou collaborer ? Voici comment faire :
 ---
 
 ## 💬 Parlons-en !
-Tu as une question, une idée de collaboration ou besoin d’aide sur un projet DevOps/Systèmes/Réseaux ? Contacte-moi via [Twitter](https://twitter.com/ton-compte) ou [LinkedIn](https://www.linkedin.com/in/ton-profil/) !
+Tu as une question, une idée de collaboration ou besoin d’aide sur un projet DevOps/Systèmes/Réseaux ? Contacte-moi via [Twitter](https://twitter.com/Mounik) ou [LinkedIn](https://www.linkedin.com/in/mounik/) !
 
 ---
 
 ⭐ **Fun Fact** : Ce README a été généré avec ❤️, et une bonne dose de YAML !
+
 ```
