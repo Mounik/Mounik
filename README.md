@@ -61,9 +61,6 @@ Mon objectif ? **Concevoir des infrastructures robustes, sécurisées et scalabl
 ## 🌟 Mes projets phares
 
 
-Projets
-
-
 | Projet | Description | Stack | Lien |
 |--------|-------------|-------|------|
 | **[Automatisation IaC avec Terraform](lien-vers-le-projet)** | Déploiement automatisé d’une infrastructure cloud multi-régions avec Terraform. | Terraform, AWS, Ansible | [🔗 Lien](lien-vers-le-projet) |
