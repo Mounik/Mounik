@@ -1,28 +1,103 @@
-### Hi there 👋
+---
 
-<!--
-**Mounik/Mounik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+# 👋 Salut, je suis Mounik !
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ton-compte)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ton-site-web.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mounik&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mounik&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
-</a>
+## 🚀 À propos de moi
+Je suis **administrateur systèmes et réseaux** et **ingénieur DevOps**, passionné par l’automatisation, l’infrastructure as code (IaC), et l’optimisation des environnements cloud et on-premise.
+Mon objectif ? **Concevoir des infrastructures robustes, sécurisées et scalables**, tout en simplifiant le déploiement et la maintenance des applications.
 
-<!--
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mounik&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mounik&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
--->
+- 🌍 Basé à Dernancurt
+- 💻 Actuellement en train de travailler sur Kubernetes, Ansible, Terraform, CI/CD, etc...
+- 🎓 Formation : Technicien Supérieur Systèmes et Réseaux - Ingénieur DevOps
+- ⚡ Fun fact : *"Je peux déployer un cluster Kubernetes avant que mon café ne refroidisse !"*
+
+---
+
+## 🛠️ Mes compétences
+
+### Systèmes & Réseaux
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### CI/CD & Outils
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## 📊 Mes stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mounik&show_icons=true&theme=dark" alt="Stats GitHub" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mounik&theme=dark" alt="Streak Stats" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounik&layout=compact&theme=dark" alt="Top Langages" width="45%" />
+</p>
+
+---
+
+## 🌟 Mes projets phares
+
+
+Projets
+
+
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| **[Automatisation IaC avec Terraform](lien-vers-le-projet)** | Déploiement automatisé d’une infrastructure cloud multi-régions avec Terraform. | Terraform, AWS, Ansible | [🔗 Lien](lien-vers-le-projet) |
+| **[Cluster Kubernetes haute disponibilité](lien-vers-le-projet)** | Mise en place d’un cluster K8s auto-scalable avec monitoring Prometheus/Grafana. | Kubernetes, Helm, Prometheus | [🔗 Lien](lien-vers-le-projet) |
+| **[Pipeline CI/CD pour microservices](lien-vers-le-projet)** | Intégration continue avec GitHub Actions et déploiement blue-green. | GitHub Actions, Docker, ArgoCD | [🔗 Lien](lien-vers-le-projet) |
+
+---
+
+## 📚 Mes certifications
+- **AWS Certified DevOps Engineer**
+- **Certified Kubernetes Administrator (CKA)**
+- **Red Hat Certified Engineer (RHCE)**
+- **Microsoft Certified: Azure Administrator Associate**
+
+---
+
+## 🤝 Comment contribuer ?
+Tu veux contribuer à mes projets ou collaborer ? Voici comment faire :
+1. **Fork** le projet
+2. **Clone** ton fork (`git clone url-du-fork`)
+3. **Crée une branche** (`git checkout -b feature/ta-fonctionnalité`)
+4. **Commit** tes changements (`git commit -m 'Ajout de ta fonctionnalité'`)
+5. **Push** (`git push origin feature/ta-fonctionnalité`)
+6. **Ouvre une Pull Request**
+
+---
+
+## 💬 Parlons-en !
+Tu as une question, une idée de collaboration ou besoin d’aide sur un projet DevOps/Systèmes/Réseaux ? Contacte-moi via [Twitter](https://twitter.com/ton-compte) ou [LinkedIn](https://www.linkedin.com/in/ton-profil/) !
+
+---
+
+⭐ **Fun Fact** : Ce README a été généré avec ❤️, et une bonne dose de YAML !
+```
+
+---
