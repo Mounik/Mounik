@@ -2,10 +2,10 @@
 
 # 👋 Salut, je suis Mounik !
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ton-compte)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ton-site-web.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mounik/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mounik)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mounik.hd.free.fr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mounicou@gmail.com)
 
 ---
 
@@ -13,7 +13,7 @@
 Je suis **administrateur systèmes et réseaux** et **ingénieur DevOps**, passionné par l’automatisation, l’infrastructure as code (IaC), et l’optimisation des environnements cloud et on-premise.
 Mon objectif ? **Concevoir des infrastructures robustes, sécurisées et scalables**, tout en simplifiant le déploiement et la maintenance des applications.
 
-- 🌍 Basé à Dernancurt
+- 🌍 Basé à Dernancurt près d'Amiens, Bientôt sur Pau
 - 💻 Actuellement en train de travailler sur Kubernetes, Ansible, Terraform, CI/CD, etc...
 - 🎓 Formation : Technicien Supérieur Systèmes et Réseaux - Ingénieur DevOps
 - ⚡ Fun fact : *"Je peux déployer un cluster Kubernetes avant que mon café ne refroidisse !"*
