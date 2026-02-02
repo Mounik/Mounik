@@ -95,5 +95,3 @@ Tu as une question, une idée de collaboration ou besoin d’aide sur un projet 
 
 ⭐ **Fun Fact** : Ce README a été généré avec ❤️, et une bonne dose de YAML !
 ```
-
----
