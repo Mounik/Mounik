@@ -11,7 +11,7 @@
 Je suis **administrateur systèmes et réseaux** et **ingénieur DevOps**, passionné par l’automatisation, l’infrastructure as code (IaC), et l’optimisation des environnements cloud et on-premise.
 Mon objectif ? **Concevoir des infrastructures robustes, sécurisées et scalables**, tout en simplifiant le déploiement et la maintenance des applications.
 
-- 🌍 Basé à Dernancurt près d'Amiens, Bientôt sur Pau
+- 🌍 Basé à Dernancourt près d'Amiens, Bientôt sur Pau
 - 💻 Actuellement en train de travailler sur Kubernetes, Ansible, Terraform, CI/CD, etc...
 - 🎓 Formation : Technicien Supérieur Systèmes et Réseaux - Ingénieur DevOps
 - ⚡ Fun fact : *"Je peux déployer un cluster Kubernetes avant que mon café ne refroidisse !"*
