@@ -41,7 +41,7 @@ Mon objectif ? **Concevoir des infrastructures robustes, sécurisées et scalabl
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
----
+<!-- ---
 
 ## 🌟 Mes projets phares
 
@@ -69,7 +69,7 @@ Tu veux contribuer à mes projets ou collaborer ? Voici comment faire :
 3. **Crée une branche** (`git checkout -b feature/ta-fonctionnalité`)
 4. **Commit** tes changements (`git commit -m 'Ajout de ta fonctionnalité'`)
 5. **Push** (`git push origin feature/ta-fonctionnalité`)
-6. **Ouvre une Pull Request**
+6. **Ouvre une Pull Request** -->
 
 ---
 
